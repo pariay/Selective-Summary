@@ -2,7 +2,11 @@
 
 **Download the code:**
 
-In order to use this code, please open the 'code.zipe' first (click on the 'code.zipe', here) and then attempt to download it.
+In order to use this code, please open the 'code.zip' first (click on the 'code.zip', here) and then attempt to download it. Alternatively, you can clone the repository (run this line in your terminal):
+
+```
+$ git clone https://github.com/pariay/Selective-Summary.git
+```
 
 **Run the demo:**
 
