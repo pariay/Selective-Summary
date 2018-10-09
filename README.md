@@ -11,9 +11,11 @@ dataset is available at: http://vision.cs.utexas.edu/projects/egocentric_data/UT
 
 **Use it for your dataset**
 
-*Requirements
-If you would like to use the code for your preferred dataset, please install MatConvNet toolbox (link: http://www.vlfeat.org/matconvnet/).
+*Requirement:
 
+MatConvNet toolbox (link: http://www.vlfeat.org/matconvnet/).
+
+If you would like to use the code for your preferred dataset, please install MatConvNet toolbox from the link above.
 Then you can make changes on 'Vid_Selective_Summary.m' (follow the comments), setting the path to your data and the MatConvNet directory.
 
  
