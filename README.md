@@ -2,7 +2,7 @@
 
 **Download the code:**
 
-In order to use this code, please open the 'code.zipe' in here (click on the 'code.zipe', here) and then attempt to download it.
+In order to use this code, please open the 'code.zipe' first (click on the 'code.zipe', here) and then attempt to download it.
 
 **Run the demo:**
 
