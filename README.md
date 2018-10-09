@@ -15,7 +15,8 @@ If you would like to use the code for your preferred dataset, please install Mat
 Then you can make changes on 'Vid_Selective_Summary.m' (follow the comments), setting the path to your data and the MatConvNet directory.
 
  
-**Please cite this paper if you use this code in your publication: **
+* **Please cite this paper if you use this code in your publication: **
+
      ```
      Paria Yousefi,and Ludmila I Kuncheva
      "Selective Keyframe Summarisation for Egocentric Videos Based on Semantic Concept Search, "  
