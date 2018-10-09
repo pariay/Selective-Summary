@@ -13,7 +13,10 @@ Then you can make changes on 'Vid_Selective_Summary.m' (follow the comments), se
 
  
 * Please cite this paper if you use this code in your publication:
-   Paria Yousefi,and Ludmila I Kuncheva
-   "Selective Keyframe Summarisation for Egocentric Videos Based on Semantic Concept Search, "  
-   Third IEEE International Conference on Image Processing, Applications and Systems (IPAS 2018)
-   
+     ```
+     Paria Yousefi,and Ludmila I Kuncheva
+     "Selective Keyframe Summarisation for Egocentric Videos Based on Semantic Concept Search, "  
+     Third IEEE International Conference on Image Processing, Applications and Systems (IPAS 2018)
+     
+     ```
+ 
