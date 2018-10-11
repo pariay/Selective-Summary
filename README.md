@@ -22,6 +22,8 @@ Then you can make changes on 'Vid_Selective_Summary.m' (follow the comments), se
 
 MatConvNet toolbox (link: http://www.vlfeat.org/matconvnet/).
 
+WordNet lexical database which is part of the NLTK corpus (link: https://www.nltk.org/install.html)
+
  
 * Please cite this paper if you use this code in your publication: 
 
