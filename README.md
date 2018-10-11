@@ -26,7 +26,6 @@ WordNet lexical database which is part of the NLTK corpus (link: https://www.nlt
 
  
 **Please cite this paper** if you use this code in your publication: 
-
      ```
      Yousefi, Paria and Kuncheva, Ludmila I. 
      "Selective Keyframe Summarisation for Egocentric Videos Based on Semantic Concept Search, "  
