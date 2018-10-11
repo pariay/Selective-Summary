@@ -25,12 +25,12 @@ MatConvNet toolbox (link: http://www.vlfeat.org/matconvnet/).
 WordNet lexical database which is part of the NLTK corpus (link: https://www.nltk.org/install.html)
 
  
-**Please cite this paper if you use this code in your publication: 
+**Please cite this paper if you use this code in your publication:** 
     
-    ``` 
+     
      Yousefi, Paria and Kuncheva, Ludmila I. 
      "Selective Keyframe Summarisation for Egocentric Videos Based on Semantic Concept Search, "  
      Third IEEE International Conference on Image Processing, Applications and Systems (IPAS 2018)
-     ```
+     
      
  
