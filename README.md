@@ -18,14 +18,14 @@ dataset is available at: http://vision.cs.utexas.edu/projects/egocentric_data/UT
 If you would like to use the code for your preferred dataset, please install MatConvNet toolbox from the link below.
 Then you can make changes on 'Vid_Selective_Summary.m' (follow the comments), setting the path to your data and the MatConvNet directory.
 
-**Requirement:**
+**Requirements:**
 
 MatConvNet toolbox (link: http://www.vlfeat.org/matconvnet/).
 
 WordNet lexical database which is part of the NLTK corpus (link: https://www.nltk.org/install.html)
 
  
-* Please cite this paper if you use this code in your publication: 
+**Please cite this paper if you use this code in your publication:** 
 
      ```
      Yousefi, Paria and Kuncheva, Ludmila I. 
