@@ -15,8 +15,8 @@ dataset is available at: http://vision.cs.utexas.edu/projects/egocentric_data/UT
 
 **Use it for your dataset:**
 
-If you would like to use the code for your preferred dataset, please install MatConvNet toolbox from the link below.
-Then you can make changes on 'Vid_Selective_Summary.m' (follow the comments), setting the path to your data and the MatConvNet directory.
+If you would like to use the code for your preferred dataset, please install MatConvNet toolbox from the link given below. Then download ResNet and VGGNet-16 pre-trained models (mat files) and store them inside a folder called 'data' in the MatConvNet directory.
+Make changes on 'Vid_Selective_Summary.m' (follow the comments), and set the path to your data and the MatConvNet directory.
 
 **Requirements:**
 
