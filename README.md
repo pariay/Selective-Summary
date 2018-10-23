@@ -26,12 +26,10 @@ Make changes on 'Vid_Selective_Summary.m' (follow the comments), and set the pat
 
 - Install Python in your system, and install python engine in Matlab.
 
-  After installing Python (), in order to install python engine in Matlb follow these steps or check Matlab documantation: 
+  After installing Python in your system (https://www.python.org/downloads), in order to install python engine in Matlab follow these steps or check Matlab documantation: 
   
-  (a) you need to find your matlabroot (type 'matlabroot' in Matlab command window).
-  
-  (b) Then open command prompt (run as  administrator) and type: >> cd "matlabroot\extern\engines\python". 
-  
+  (a) you need to find your matlabroot (type 'matlabroot' in Matlab command window).  
+  (b) Then open command prompt (run as  administrator) and type: >> cd "matlabroot\extern\engines\python".  
   (c) Now type: >> python setup.py install .
 
  
