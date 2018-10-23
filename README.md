@@ -24,8 +24,15 @@ Make changes on 'Vid_Selective_Summary.m' (follow the comments), and set the pat
 
 - WordNet lexical database which is part of the NLTK corpus (link: https://www.nltk.org/install.html). 
 
-- Install Python in your system, and install python engine in Matlab. 
-  To do so, (a) you need to find your matlabroot (type 'matlabroot' in Matlab command window). (b) Then open command prompt (run as  administrator) and type: >> cd "matlabroot\extern\engines\python". (c) Now type: >> python setup.py install .
+- Install Python in your system, and install python engine in Matlab.
+
+  After installing Python (), in order to install python engine in Matlb follow these steps or check Matlab documantation: 
+  
+  (a) you need to find your matlabroot (type 'matlabroot' in Matlab command window).
+  
+  (b) Then open command prompt (run as  administrator) and type: >> cd "matlabroot\extern\engines\python". 
+  
+  (c) Now type: >> python setup.py install .
 
  
 **Please cite this paper if you use this code in your publication:** 
