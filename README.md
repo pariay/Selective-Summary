@@ -26,8 +26,8 @@ Make changes on 'Vid_Selective_Summary.m' (follow the comments), and set the pat
 
 - Install Python in your system (https://www.python.org/downloads), and then install python engine in Matlab follow these steps or check Matlab documantation:  
   (a) you need to find your matlabroot (type 'matlabroot' in Matlab command window).  
-  (b) Then open command prompt (run as  administrator) and type: >> cd "matlabroot\extern\engines\python".  
-  (c) Now type: >> python setup.py install .
+  (b) Then open command prompt (run as administrator) and type: >> cd "matlabroot\extern\engines\python"  
+  (c) Now type: >> python setup.py install 
 
  
 **Please cite this paper if you use this code in your publication:** 
